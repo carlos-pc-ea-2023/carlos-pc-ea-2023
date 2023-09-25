@@ -1,10 +1,6 @@
 ### Hi there 👋
+Carlos Edeuardo nunes do carmo Estou estudando na Alura Estou me desenvolvendo na linguagem JavaScriptUtilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-<!--
-**carlos-pc-ea-2023/carlos-pc-ea-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-carlos.nunes.carmo@escola.pr.gov.br  eu estou estudando edutech porinquanto nada
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
